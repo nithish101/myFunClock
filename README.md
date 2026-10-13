@@ -3,6 +3,15 @@
 
 An interactive clock built with [p5.js](https://p5js.org/) that combines both digital and analog elements, with animated transitions triggered at minute, hour, and day changes. The clock includes input options for customization, as well as the ability to display additional information.
 
+**[Open the Clock](https://nithish101.github.io/myFunClock/clock/)**
+
+![At each new minute the balls fall across the screen and the clock's colors change](docs/screenshots/minute-change.gif)
+
+| | |
+|---|---|
+| ![Digital display: hours, minutes and seconds stacked inside the arcs, minute dots around the edge, on the moon background](docs/screenshots/digital.png) | ![Analog display on a black background: second, minute and hour hands inside the arcs, with the time shown below](docs/screenshots/analog.png) |
+| Digital display with minute dots (`Space`) on the moon background (`b`) | Analog display (click to cycle) |
+
 ## Features
 
 - **Dynamic Animations:**  
